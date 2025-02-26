@@ -3,28 +3,28 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in open-source projects and cutting-edge technology. I love to explore new programming languages and frameworks, and I'm always looking for opportunities to learn and grow.
+I am a passionate Data Science with a keen interest in open-source projects and cutting-edge technology. I love to explore new programming languages and frameworks, and I'm always looking for opportunities to learn and grow.
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Languages:** C, Advanced Python, Html, Css, JavaScript 
+- **Frameworks:** React, Node.js, Django, c#
+- **Tools:** Git, Docker
+- **Databases:** MySQL, MongoDB
 
 ## Projects
 
-### Project 1: Awesome Project
+### Project 1:TITANIC CLASSIFICATION
 - **Description:** A brief description of what the project does.
-- **Technologies Used:** React, Node.js, MongoDB
+- **Technologies Used:** Python, Numpy, Pandas, matplotlib, Scikit-learn
 
-### Project 2: Another Cool Project
+### Project 2: HEART DISEASE
 - **Description:** A brief description of what the project does.
-- **Technologies Used:** Django, PostgreSQL
+- **Technologies Used:** Python, Numpy, Pandas, matplotlib, Scikit-learn
 
 ## Contact Me
 
-- **Email:** kusheshgangwar@example.com
+- **Email:** kusheshgangwar888@gmail.com
 - **LinkedIn:** [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
 - **GitHub:** [kusheshgangwar](https://github.com/kusheshgangwar)
 
