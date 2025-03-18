@@ -8,9 +8,9 @@ I am a passionate Data Science with a keen interest in open-source projects and 
 ## Skills
 
 - **Languages:** C, Advanced Python, Html, Css, JavaScript 
-- **Frameworks:** React, Node.js, Django, c#
-- **Tools:** Git, Docker
-- **Databases:** MySQL, MongoDB
+- **Frameworks:** c#
+- **Tools:** Git, power bi, tableau
+- **Databases:** MySQL
 
 ## Projects
 
