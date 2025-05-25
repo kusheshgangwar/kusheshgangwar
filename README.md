@@ -1,3 +1,5 @@
+<img src="D:\CV\kushesh document\kushesh background image.jpg" alt="Banner" style="width:100%;"/>
+
 
 # Hi there, I'm Kushesh Gangwar 👋
 
