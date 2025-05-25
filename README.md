@@ -29,12 +29,7 @@ I am a passionate Data Science with a keen interest in open-source projects and 
 - **GitHub:** [kusheshgangwar](https://github.com/kusheshgangwar)
 
 ## 📊 Live Dashboard
-
-![Kushesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kusheshgangwar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusheshgangwar&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=kusheshgangwar&color=blue)
-
 ## GitHub Stats
 
 ![Kushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusheshgangwar&show_icons=true&theme=radical)
