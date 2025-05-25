@@ -1,5 +1,3 @@
-![Banner](path/to/your/banner-kushesh background image.jpg)
-
 # Hi there, I'm Kushesh Gangwar 👋
 
 ## About Me
