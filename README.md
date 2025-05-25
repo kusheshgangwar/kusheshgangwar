@@ -1,6 +1,3 @@
-<img src="https://github.com/kusheshgangwar/kusheshgangwar/blob/main/YOUR_IMAGE_NAME.png" alt="Banner" style="width:100%;">
-
-
 # Hi there, I'm Kushesh Gangwar 👋
 
 ## About Me
