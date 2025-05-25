@@ -1,9 +1,19 @@
-<img src="assets/banner.png" alt="Banner" style="width:100%;"/>
+
 # Hi there, I'm Kushesh Gangwar 👋
 
 ## About Me
 
 I am a passionate Data Science with a keen interest in open-source projects and cutting-edge technology. I love to explore new programming languages and frameworks, and I'm always looking for opportunities to learn and grow.
+
+
+## Skills
+
+| **Category**   | **Skills**                      |
+|-----------------|---------------------------------|
+| **Languages**   | C, Python, HTML, CSS, JavaScript |
+| **Frameworks**  | C#                             |
+| **Tools**       | Git, Power BI, Tableau         |
+| **Databases**   | MySQL                          |
 
 ## Skills
 
