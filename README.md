@@ -11,7 +11,7 @@ I am a passionate Data Science with a keen interest in open-source projects and 
 |-----------------|---------------------------------|
 | **Languages**   | C, Python, HTML, CSS, JavaScript |
 | **Frameworks**  | C#                             |
-| **Tools**       | Git, Power BI, Tableau         |
+| **Tools**       | Github, Git, Power BI, Tableau         |
 | **Databases**   | MySQL                          |
 
 
