@@ -1,43 +1,53 @@
 # Hi there, I'm Kushesh Gangwar 👋
 
-## About Me
+## Data Analytics Profile
+I am a Data Analyst who transforms raw data into actionable insights. I enjoy building reproducible analyses, clear visualizations, and data-driven solutions that help teams make informed decisions.
 
-I am a passionate Data Science with a keen interest in open-source projects and cutting-edge technology. I love to explore new programming languages and frameworks, and I'm always looking for opportunities to learn and grow.
+- 🔍 Focus: Exploratory data analysis, data cleaning, feature engineering, and reporting
+- 📊 Strengths: Data visualization, business metrics, dashboarding, and storytelling with data
+- 🌱 Currently: Improving model deployment knowledge and advanced analytics techniques
 
+## Core Skills
 
-## Skills
+| Category                | Skills |
+|-------------------------|--------|
+| Languages               | Python, SQL, C, JavaScript, HTML, CSS |
+| Data & Analytics        | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI, Tableau |
+| Frameworks & Tools      | Jupyter, Git, GitHub, React.js (basic), Node.js (basic) |
+| Databases               | MySQL, MongoDB |
+| Practices               | EDA, data cleaning, feature engineering, A/B analysis, reporting, dashboarding |
 
-| **Category**   | **Skills**                      |
-|-----------------|---------------------------------|
-| **Languages**   | C, Python, HTML, CSS, JavaScript, Java |
-| **Frameworks**  | C# ,React.js,Node.js                            |
-| **Tools**       | Github, Git, Power BI, Tableau         |
-| **Databases**   | MySQL, MongoDB                      |
+## Selected Data Projects
 
+### TITANIC — Passenger Survival Classification
+- Goal: Demonstrate end-to-end EDA and supervised modelling to predict passenger survival.
+- Work done: data cleaning, missing-value strategies, feature engineering (titles, family size), model comparison, and interpretation.
+- Tech: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Deliverables: Clean notebook with visualizations, model evaluation metrics, and a short summary of actionable findings.
 
-## Projects
+### HEART DISEASE — Clinical Risk Classifier
+- Goal: Predict presence of heart disease using clinical attributes and provide interpretable results.
+- Work done: data preprocessing, normalization, feature selection, model tuning (Logistic Regression, Random Forest), ROC/AUC evaluation, and feature importance analysis.
+- Tech: Python, Pandas, Scikit-learn, Matplotlib
+- Deliverables: Reproducible analysis notebook, evaluation report, and recommendations for next steps.
 
-### Project 1:TITANIC CLASSIFICATION
-- **Description:** A brief description of what the project does.
-- **Technologies Used:** Python, Numpy, Pandas, matplotlib, Scikit-learn
+(Full notebooks, data links, and reproducible instructions can be added to the repository — reach out if you'd like collaboration or early access.)
 
-### Project 2: HEART DISEASE
-- **Description:** A brief description of what the project does.
-- **Technologies Used:** Python, Numpy, Pandas, matplotlib, Scikit-learn
+## How I Work
+- Start with a clear question and success metrics.
+- Create reproducible, well-documented notebooks and scripts.
+- Produce clear visualizations and executive summaries that communicate impact.
+- Version control and modularize code for reusability.
 
-## Contact Me
-- **Email:*kginvertisuniversity@gmail.com
-- **LinkedIn:** [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
-- **GitHub:** [kusheshgangwar](https://github.com/kusheshgangwar)
+## Contact
+- Email: kginvertisuniversity@gmail.com
+- LinkedIn: [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
+- GitHub: [kusheshgangwar](https://github.com/kusheshgangwar)
 
-## 📊 Live Dashboard
-![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)
-## GitHub Stats
-
-![Kushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusheshgangwar&show_icons=true&theme=radical)
-
-## Top Languages
-
+## Badges
+![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)  
+![Kushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusheshgangwar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusheshgangwar&layout=compact&theme=radical)
 
-Thank you for visiting my profile! Feel free to reach out to me if you want to collaborate on any projects or just want to have a chat.
+---
+Thank you for visiting my profile — if you'd like help with data analysis, dashboards, or a portfolio review, let's connect.
