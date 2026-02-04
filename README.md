@@ -42,7 +42,6 @@ I am a Data Analyst who transforms raw data into actionable insights. I enjoy bu
 ## Contact
 - Email: kginvertisuniversity@gmail.com
 - LinkedIn: [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
-- GitHub: [kusheshgangwar](https://github.com/kusheshgangwar)
 
 ## Badges
 ![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)  
