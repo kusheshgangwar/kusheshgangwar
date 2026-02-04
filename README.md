@@ -10,9 +10,9 @@ I am a passionate Data Science with a keen interest in open-source projects and 
 | **Category**   | **Skills**                      |
 |-----------------|---------------------------------|
 | **Languages**   | C, Python, HTML, CSS, JavaScript, Java |
-| **Frameworks**  | C#                             |
+| **Frameworks**  | C# ,React.js,Node.js                            |
 | **Tools**       | Github, Git, Power BI, Tableau         |
-| **Databases**   | MySQL                          |
+| **Databases**   | MySQL, MongoDB                      |
 
 
 ## Projects
@@ -26,8 +26,7 @@ I am a passionate Data Science with a keen interest in open-source projects and 
 - **Technologies Used:** Python, Numpy, Pandas, matplotlib, Scikit-learn
 
 ## Contact Me
-
-- **Email:** kusheshgangwar888@gmail.com
+- **Email:*kginvertisuniversity@gmail.com
 - **LinkedIn:** [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
 - **GitHub:** [kusheshgangwar](https://github.com/kusheshgangwar)
 
@@ -42,4 +41,3 @@ I am a passionate Data Science with a keen interest in open-source projects and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusheshgangwar&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Feel free to reach out to me if you want to collaborate on any projects or just want to have a chat.
-
