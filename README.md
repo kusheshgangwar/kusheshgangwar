@@ -13,7 +13,7 @@ I am a Data Analyst who transforms raw data into actionable insights. I enjoy bu
 |-------------------------|--------|
 | Languages               | Python, SQL, JavaScript, HTML, CSS |
 | Data & Analytics        | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI, Tableau |
-| Frameworks & Tools      | Jupyter, Git, GitHub, React.js (basic), Node.js (basic) |
+| Frameworks & Tools      | Jupyter, Git, GitHub, React.js, Node.js, Express.js |
 | Databases               | MySQL, MongoDB |
 | Practices               | EDA, data cleaning, feature engineering, A/B analysis, reporting, dashboarding |
 
