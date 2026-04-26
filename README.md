@@ -41,14 +41,6 @@ I am a Data Analyst who transforms raw data into actionable insights. I enjoy bu
 
 <h3 align="left">LANGUAGES AND TOOLS:</h3>
 
-# 👨‍💻 Technical Skills & Expertise
-
-<p align="center">
-  <strong>Data Science | Full Stack Development | Data Analytics & Visualization</strong>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🖥️ Languages
