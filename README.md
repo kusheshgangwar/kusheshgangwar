@@ -1,7 +1,7 @@
 # Hi there, I'm Kushesh Gangwar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -109,12 +109,14 @@ Key Focus: Competitor benchmarking, pricing strategy, market intelligence
 
 ---
 
-<!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/> </a> </p> -->
+<!--
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> </p>
+-->
 
 ## Contact
 - 📫 How to reach me **kginvertisuniversity@gmail.com**
 - LinkedIn: [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
-- Portfolio:[Portfolio Profile](https://kusheshportfolio20.netlify.app/)
+- Portfolio: [Portfolio Profile](https://kusheshportfolio20.netlify.app/)
 
 ## Badges
 ![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)  
