@@ -40,6 +40,8 @@ Key Focus: Predictive modelling, time-series forecasting, large-scale data proce
 Key Focus: Competitor benchmarking, pricing strategy, market intelligence 
 
 
+
+
 <p align="center">
   <strong>💼 Open to exciting projects in Data Science and Data Analytics</strong>
 </p>
@@ -128,7 +130,6 @@ Key Focus: Competitor benchmarking, pricing strategy, market intelligence
 
 
   My Contributions with 🐍 Snake Game🍴
-  
  ![Snake animation](https://github.com/Pprudhvivardhan/Pprudhvivardhan/raw/output/github-contribution-grid-snake.svg)
 ---
 Thank you for visiting my profile — if you'd like help with data analysis, dashboards, or a portfolio review, let's connect.
