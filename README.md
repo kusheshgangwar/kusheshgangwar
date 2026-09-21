@@ -120,8 +120,6 @@ Key Focus: Competitor benchmarking, pricing strategy, market intelligence
 
 ## Badges
 ![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)  
-![Kushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusheshgangwar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kusheshgangwar&layout=compact&theme=radical)
 
 
   My Contributions with 🐍 Snake Game🍴
