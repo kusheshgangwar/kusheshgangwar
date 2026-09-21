@@ -38,7 +38,7 @@ Key Focus: Predictive modelling, time-series forecasting, large-scale data proce
 • Mined 50,000+ U.S. retail records using Seaborn-driven exploratory analysis to map demand elasticity and category-level revenue concentration across Puma's product portfolio. 
 • Benchmarked Puma against key competitors, surfacing a 20% pricing gap and recommending a repositioning strategy estimated to generate an 8-10% uplift in net revenue. 
 Key Focus: Competitor benchmarking, pricing strategy, market intelligence 
----
+
 
 <p align="center">
   <strong>💼 Open to exciting projects in Data Science and Data Analytics</strong>
