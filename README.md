@@ -114,7 +114,7 @@ Key Focus: Competitor benchmarking, pricing strategy, market intelligence
 ## Contact
 - 📫 How to reach me **kginvertisuniversity@gmail.com**
 - LinkedIn: [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
-- Portfolio:[Portfolio Profile](kusheshportfolio20.netlify.app)
+- Portfolio:[Portfolio Profile](https://kusheshportfolio20.netlify.app/)
 
 ## Badges
 ![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)  
