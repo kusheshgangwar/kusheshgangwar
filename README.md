@@ -1,7 +1,7 @@
 # Hi there, I'm Kushesh Gangwar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder;Full+Stack+Developer" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -38,8 +38,6 @@ Key Focus: Predictive modelling, time-series forecasting, large-scale data proce
 • Mined 50,000+ U.S. retail records using Seaborn-driven exploratory analysis to map demand elasticity and category-level revenue concentration across Puma's product portfolio. 
 • Benchmarked Puma against key competitors, surfacing a 20% pricing gap and recommending a repositioning strategy estimated to generate an 8-10% uplift in net revenue. 
 Key Focus: Competitor benchmarking, pricing strategy, market intelligence 
-
-(Full notebooks, data links, and reproducible instructions can be added to the repository — reach out if you'd like collaboration or early access.)
 
 ## How I Work
 - Start with a clear question and success metrics.
