@@ -74,17 +74,6 @@ Key Focus: Competitor benchmarking, pricing strategy, market intelligence
 ## Badges
 ![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <a href="https://github.com/kusheshgangwar?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusheshgangwar&layout=compact&theme=radical&hide_border=true&langs_count=8"
-      alt="Most used programming languages"
-    />
-  </a>
-</p>
-
 My Contributions with 🐍 Snake Game🍴
 ![Snake animation](https://github.com/Pprudhvivardhan/Pprudhvivardhan/raw/output/github-contribution-grid-snake.svg)
 
