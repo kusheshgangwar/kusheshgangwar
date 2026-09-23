@@ -124,8 +124,6 @@ Key Focus: Competitor benchmarking, pricing strategy, market intelligence
 
   My Contributions with 🐍 Snake Game🍴
  ![Snake animation](https://github.com/Pprudhvivardhan/Pprudhvivardhan/raw/output/github-contribution-grid-snake.svg)
----
-Thank you for visiting my profile — if you'd like help with data analysis, dashboards, or a portfolio review, let's connect.
 
 ## 📈 Profile Activity
 
@@ -134,3 +132,6 @@ Thank you for visiting my profile — if you'd like help with data analysis, das
 </p>
 
 > *I believe good analysis turns data into understanding, and understanding into better decisions.*
+
+---
+Thank you for visiting my profile — if you'd like help with data analysis, dashboards, or a portfolio review, let's connect.
