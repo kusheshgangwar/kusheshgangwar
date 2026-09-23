@@ -17,7 +17,6 @@ I am a Data Analyst who transforms raw data into actionable insights. I enjoy bu
 - 📊 Strengths: Data visualization, business metrics, dashboarding, and storytelling with data
 - 🌱 Currently: Improving model deployment knowledge and advanced analytics techniques
 
--->
 ## Core Skills
 
 | Category                | Skills |
@@ -27,7 +26,6 @@ I am a Data Analyst who transforms raw data into actionable insights. I enjoy bu
 | Frameworks & Tools      | VS Code, Jupyter, Colab, Git, GitHub, React.js, Node.js, Express.js |
 | Databases               | Oracle, MySql, MongoDB |
 | Practices               | EDA, Data Cleaning, Feature Engineering, Reporting, Dashboarding |
--->
 
 ## Selected Data Projects
 
@@ -41,7 +39,6 @@ Key Focus: Predictive modelling, time-series forecasting, large-scale data proce
 • Benchmarked Puma against key competitors, surfacing a 20% pricing gap and recommending a repositioning strategy estimated to generate an 8-10% uplift in net revenue. 
 Key Focus: Competitor benchmarking, pricing strategy, market intelligence 
 
--->
 
 ## 🎯 Expertise Highlights
 
@@ -50,11 +47,9 @@ Key Focus: Competitor benchmarking, pricing strategy, market intelligence
 🔄 **Full Stack Development** — End-to-end solutions from backend to frontend  
 📈 **Analytics & Reporting** — Professional reports with statistical analysis  
 
--->
 
 <!--
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> </p>
--->
 
 ## Contact
 - 📫 How to reach me **kginvertisuniversity@gmail.com**
