@@ -1,89 +1,115 @@
-# Hi there, I'm Kushesh Gangwar 👋
+<div align="center">
+
+# Hi, I'm Kushesh Gangwar 👋
+
+### Data Analyst · Dashboard Builder · Data Science Enthusiast
+
+I turn raw data into clear insights, engaging dashboards, and practical business solutions.
+
+<p>
+  <a href="https://www.linkedin.com/in/kusheshgangwar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:kginvertisuniversity@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+  <a href="https://kusheshportfolio20.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
+</p>
+
+</div>
+
+## 👨‍💻 About Me
+
+I am a data-focused developer who enjoys discovering patterns, simplifying complex information, and communicating insights through compelling visualizations. My work combines analytical thinking with practical development skills to create solutions that help people make better decisions.
+
+- 🔎 Exploring data through **EDA, cleaning, and feature engineering**
+- 📊 Building informative dashboards with **Power BI, Tableau, and Streamlit**
+- 📈 Applying statistical analysis and machine learning to real-world problems
+- 🧩 Developing my knowledge of **model deployment and advanced analytics**
+- 🤝 Open to collaborating on analytics, dashboarding, and data-driven projects
+
+## 🧰 Skills & Technologies
+
+### Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
+
+### Development & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+### Workflow
+
+`Jupyter` · `Google Colab` · `VS Code` · `Git` · `GitHub` · `Data Cleaning` · `EDA` · `Feature Engineering` · `Reporting`
+
+## 🚀 Featured Projects
+
+### [TransactIQ — Forecasting India's Digital Payments Journey](https://github.com/kusheshgangwar)
+
+- Analysed **10M+ UPI transaction records** covering 2019–2025 using Pandas and NumPy.
+- Identified recurring seasonal patterns and measured the acceleration of cashless adoption.
+- Built an ARIMA forecasting model and communicated projections through an interactive Power BI report.
+
+**Focus:** Time-series forecasting · Predictive analytics · Large-scale data processing
+
+### [Sportswear Meets Data — Puma Market Performance](https://github.com/kusheshgangwar)
+
+- Explored **50,000+ U.S. retail records** to understand demand, pricing, and category-level revenue concentration.
+- Benchmarked market performance against competitors and translated findings into business recommendations.
+- Presented the analysis through clear, decision-ready visualizations and reporting.
+
+**Focus:** Exploratory analysis · Competitor benchmarking · Pricing strategy · Market intelligence
+
+## 📊 What I Bring
+
+| Strength | Value |
+| --- | --- |
+| **Analytical thinking** | I turn messy data into structured, meaningful findings. |
+| **Visual storytelling** | I design dashboards that make important insights easy to understand. |
+| **Business perspective** | I connect metrics and trends to practical decisions. |
+| **End-to-end mindset** | I can work from data preparation through analysis, reporting, and presentation. |
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kusheshgangwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Kushesh's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusheshgangwar&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Kushesh's top languages" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Typing animation" />
+  <img src="https://streak-stats.demolab.com?user=kusheshgangwar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kusheshgangwar"><img src="https://img.shields.io/github/followers/kusheshgangwar?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /></a>
-  <a href="https://www.linkedin.com/in/kusheshgangwar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:kginvertisuniversity@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
-</p>
+## 📫 Let's Connect
 
-## Data Analytics Profile
-I am a Data Analyst who transforms raw data into actionable insights. I enjoy building reproducible analyses, clear visualizations, and data-driven solutions that help teams make informed decisions.
+If you are interested in data analysis, dashboards, business intelligence, or collaborating on an interesting project, feel free to reach out.
 
-- 🔍 Focus: Exploratory data analysis, data cleaning, feature engineering, and reporting
-- 📊 Strengths: Data visualization, business metrics, dashboarding, and storytelling with data
-- 🌱 Currently: Improving model deployment knowledge and advanced analytics techniques
+- 📧 **Email:** [kginvertisuniversity@gmail.com](mailto:kginvertisuniversity@gmail.com)
+- 💼 **LinkedIn:** [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
+- 🌐 **Portfolio:** [kusheshportfolio20.netlify.app](https://kusheshportfolio20.netlify.app/)
 
-## Core Skills
+<div align="center">
 
-| Category | Skills |
-|---|---|
-| Languages | Python, JavaScript, HTML, CSS |
-| Data & Analytics | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Streamlit, Power BI, Tableau |
-| Frameworks & Tools | VS Code, Jupyter, Colab, Git, GitHub, React.js, Node.js, Express.js |
-| Databases | Oracle, MySQL, MongoDB |
-| Practices | EDA, Data Cleaning, Feature Engineering, Reporting, Dashboarding |
+> *Good analysis turns data into understanding — and understanding into better decisions.*
 
-## 🛠️ Languages and Tools
+![Profile views](https://komarev.com/ghpvc/?username=kusheshgangwar&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" /></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" /></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" /></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" /></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" /></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="45" height="45" /></a>
-</p>
+**Thanks for visiting my profile!** ⭐
 
-## Selected Data Projects
-
-### TransactIQ - Forecasting India's Digital Payments Journey with UPI
-- Processed and analysed over 10 million UPI transaction records (2019-2025) with Pandas and NumPy, detecting 15-20% recurring seasonal surges and measuring post-COVID acceleration in cashless adoption.
-- Deployed an ARIMA time-series model that achieved 85% forecast accuracy, then surfaced projections in a Power BI report used to communicate future volume trends to non-technical reviewers.
-
-Key Focus: Predictive modelling, time-series forecasting, large-scale data processing
-
-### Sportswear Meets Data - Analyzing Puma's Global Market Performance
-- Mined 50,000+ U.S. retail records using Seaborn-driven exploratory analysis to map demand elasticity and category-level revenue concentration across Puma's product portfolio.
-- Benchmarked Puma against key competitors, surfacing a 20% pricing gap and recommending a repositioning strategy estimated to generate an 8-10% uplift in net revenue.
-
-Key Focus: Competitor benchmarking, pricing strategy, market intelligence
-
-## 🎯 Expertise Highlights
-
-✨ **Data-Driven Solutions** — Transform raw data into actionable insights  
-🎨 **Interactive Dashboards** — Create compelling visualizations using Power BI & Tableau  
-🔄 **Full Stack Development** — End-to-end solutions from backend to frontend  
-📈 **Analytics & Reporting** — Professional reports with statistical analysis
-
-## Contact
-- 📫 How to reach me **kginvertisuniversity@gmail.com**
-- LinkedIn: [Kushesh Gangwar](https://www.linkedin.com/in/kusheshgangwar)
-- Portfolio: [Portfolio Profile](https://kusheshportfolio20.netlify.app/)
-
-## Badges
-![GitHub Streak](https://streak-stats.demolab.com?user=kusheshgangwar&theme=radical)
-
-My Contributions with 🐍 Snake Game🍴
-![Snake animation](https://github.com/Pprudhvivardhan/Pprudhvivardhan/raw/output/github-contribution-grid-snake.svg)
-
-## 📈 Profile Activity
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kusheshgangwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-> *I believe good analysis turns data into understanding, and understanding into better decisions.*
-
----
-Thank you for visiting my profile — if you'd like help with data analysis, dashboards, or a portfolio review, let's connect.
+</div>
