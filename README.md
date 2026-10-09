@@ -3,7 +3,7 @@
 # Hi, I'm Kushesh Gangwar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Kushesh Gangwar typing banner" />
 </p>
 
 I turn raw data into clear insights, engaging dashboards, and practical business solutions.
@@ -12,13 +12,16 @@ I turn raw data into clear insights, engaging dashboards, and practical business
   <a href="https://www.linkedin.com/in/kusheshgangwar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:kginvertisuniversity@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
   <a href="https://kusheshportfolio20.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
+  <a href="https://raw.githubusercontent.com/kusheshgangwar/kusheshgangwar/main/resume.md" download>
+    <img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=download&logoColor=white" alt="Download resume" />
+  </a>
 </p>
 
 </div>
 
 ## 👨‍💻 About Me
 
-I am a data-focused developer who enjoys discovering patterns, simplifying complex information, and communicating insights through compelling visualizations. My work combines analytical thinking with practical development skills to create solutions that help people make better decisions.
+I am a data-focused developer who enjoys discovering patterns, simplifying complex information, and communicating insights through compelling visualizations. My work combines analytical thinking with business understanding to create solutions that are both practical and impactful.
 
 - 🔎 Exploring data through **EDA, cleaning, and feature engineering**
 - 📊 Building informative dashboards with **Power BI, Tableau, and Streamlit**
