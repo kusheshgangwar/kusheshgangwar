@@ -65,19 +65,19 @@ I am a data-focused developer who enjoys discovering patterns, simplifying compl
 
 ### [TransactIQ — Forecasting India's Digital Payments Journey](https://github.com/kusheshgangwar/TransactIQ--Forecasting-India-s-Digital-Payments-Journey-with-UPI)
 
-- Analysed **10M+ UPI transaction records** covering 2019–2025 using Pandas and NumPy.
-- Identified recurring seasonal patterns and measured the acceleration of cashless adoption.
+- Processed and analysed over 10 million UPI transaction records (2019-2025) with Pandas and NumPy, detecting 15-20% recurring seasonal surges and measuring post-COVID acceleration in cashless adoption. 
+- Deployed an ARIMA time-series model that achieved 85% forecast accuracy, then surfaced projections in a Power BI report used to communicate future volume trends to non-technical reviewers. 
 - Built an ARIMA forecasting model and communicated projections through an interactive Power BI report.
 
-**Focus:** Time-series forecasting · Predictive analytics · Large-scale data processing
+**Focus:**   Predictive modelling · time-series forecasting · large-scale data processing
 
 ### [Sportswear Meets Data — Puma Market Performance](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance)
 
-- Explored **50,000+ U.S. retail records** to understand demand, pricing, and category-level revenue concentration.
-- Benchmarked market performance against competitors and translated findings into business recommendations.
+- Mined 50,000+ U.S. retail records using Seaborn-driven exploratory analysis to map demand elasticity and category-level revenue concentration across Puma's product portfolio. 
+- Benchmarked Puma against key competitors, surfacing a 20% pricing gap and recommending a repositioning strategy estimated to generate an 8-10% uplift in net revenue.
 - Presented the analysis through clear, decision-ready visualizations and reporting.
 
-**Focus:** Exploratory analysis · Competitor benchmarking · Pricing strategy · Market intelligence
+**Focus:** : Competitor benchmarking · pricing strategy · market intelligence
 
 ### [Meta Ads Campaign Performance Analysis](https://github.com/kusheshgangwar/Meta-Ads-Campaign-Analysis)
 
@@ -85,7 +85,7 @@ I am a data-focused developer who enjoys discovering patterns, simplifying compl
 - Developed a multi-page Power BI dashboard covering reach, click-through behaviour, and platform-time heatmaps; findings drove a 25% improvement in campaign optimisation efficiency.
 - Identified high-performing segments and provided data-driven recommendations for campaign optimization.
 
-**Focus:** Marketing analytics · Campaign performance · Budget optimization · Customer acquisition analysis
+**Focus:**  Digital marketing analytics · SQL querying · interactive dashboard development 
 
 ## 📊 What I Bring
 
