@@ -3,7 +3,7 @@
 # Hi, I'm Kushesh Gangwar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Kushesh Gangwar typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="K..." />
 </p>
 
 I turn raw data into clear insights, engaging dashboards, and practical business solutions.
@@ -19,7 +19,7 @@ I turn raw data into clear insights, engaging dashboards, and practical business
 
 ## 👨‍💻 About Me
 
-I am a data-focused developer who enjoys discovering patterns, simplifying complex information, and communicating insights through compelling visualizations. My work combines analytical thinking with practical problem solving to support better decisions.
+I am a data-focused developer who enjoys discovering patterns, simplifying complex information, and communicating insights through compelling visualizations. My work combines analytical thinking with strategic problem-solving.
 
 - 🔎 Exploring data through **EDA, cleaning, and feature engineering**
 - 📊 Building informative dashboards with **Power BI, Tableau, and Streamlit**
@@ -79,13 +79,14 @@ I am a data-focused developer who enjoys discovering patterns, simplifying compl
 
 **Focus:** Exploratory analysis · Competitor benchmarking · Pricing strategy · Market intelligence
 
-### [Retail Store Analytics Dashboard](https://github.com/kusheshgangwar/Retail_Store_Analytics_with_streamlit)
+### [Meta Ads Campaign Performance Analysis](https://github.com/kusheshgangwar/Meta-Ads-Campaign-Analysis)
 
-- Built an interactive **Streamlit dashboard** for comprehensive retail analytics.
-- Analyzed store performance, customer trends, and sales patterns using Python libraries.
-- Delivered actionable insights through modern, user-friendly data visualization.
+- Analyzed **multi-million Meta advertising campaigns** across different demographics and placements.
+- Evaluated campaign effectiveness using ROI, ROAS, CPC, and conversion metrics.
+- Built interactive Power BI dashboards to track ad performance, audience engagement, and budget optimization.
+- Identified high-performing segments and provided data-driven recommendations for campaign optimization.
 
-**Focus:** Dashboard development · Retail analytics · Streamlit applications
+**Focus:** Marketing analytics · Campaign performance · Budget optimization · Customer acquisition analysis
 
 ## 📊 What I Bring
 
