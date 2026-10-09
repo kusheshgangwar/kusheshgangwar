@@ -3,7 +3,7 @@
 # Hi, I'm Kushesh Gangwar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="K[...]" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Dashboard+Builder" alt="Kushesh Gangwar typing animation" />
 </p>
 
 I turn raw data into clear insights, engaging dashboards, and practical business solutions.
@@ -19,7 +19,7 @@ I turn raw data into clear insights, engaging dashboards, and practical business
 
 ## 👨‍💻 About Me
 
-I am a data-focused developer who enjoys discovering patterns, simplifying complex information, and communicating insights through compelling visualizations. My work combines analytical thinking with [...]
+I am a data-focused developer who enjoys discovering patterns, simplifying complex information, and communicating insights through compelling visualizations. My work combines analytical thinking with practical problem solving to support better decisions.
 
 - 🔎 Exploring data through **EDA, cleaning, and feature engineering**
 - 📊 Building informative dashboards with **Power BI, Tableau, and Streamlit**
@@ -63,7 +63,7 @@ I am a data-focused developer who enjoys discovering patterns, simplifying compl
 
 ## 🚀 Featured Projects
 
-### [TransactIQ — Forecasting India's Digital Payments Journey](https://github.com/kusheshgangwar)
+### [TransactIQ — Forecasting India's Digital Payments Journey](https://github.com/kusheshgangwar/TransactIQ--Forecasting-India-s-Digital-Payments-Journey-with-UPI)
 
 - Analysed **10M+ UPI transaction records** covering 2019–2025 using Pandas and NumPy.
 - Identified recurring seasonal patterns and measured the acceleration of cashless adoption.
@@ -71,13 +71,21 @@ I am a data-focused developer who enjoys discovering patterns, simplifying compl
 
 **Focus:** Time-series forecasting · Predictive analytics · Large-scale data processing
 
-### [Sportswear Meets Data — Puma Market Performance](https://github.com/kusheshgangwar)
+### [Sportswear Meets Data — Puma Market Performance](https://github.com/kusheshgangwar/Sportswear-Meets-Data-Analyzing-Puma-s-Global-Market-Performance)
 
 - Explored **50,000+ U.S. retail records** to understand demand, pricing, and category-level revenue concentration.
 - Benchmarked market performance against competitors and translated findings into business recommendations.
 - Presented the analysis through clear, decision-ready visualizations and reporting.
 
 **Focus:** Exploratory analysis · Competitor benchmarking · Pricing strategy · Market intelligence
+
+### [Retail Store Analytics Dashboard](https://github.com/kusheshgangwar/Retail_Store_Analytics_with_streamlit)
+
+- Built an interactive **Streamlit dashboard** for comprehensive retail analytics.
+- Analyzed store performance, customer trends, and sales patterns using Python libraries.
+- Delivered actionable insights through modern, user-friendly data visualization.
+
+**Focus:** Dashboard development · Retail analytics · Streamlit applications
 
 ## 📊 What I Bring
 
