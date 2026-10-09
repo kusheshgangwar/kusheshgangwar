@@ -12,7 +12,7 @@ I turn raw data into clear insights, engaging dashboards, and practical business
   <a href="https://www.linkedin.com/in/kusheshgangwar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:kginvertisuniversity@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
   <a href="https://kusheshportfolio20.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
-  <a href="[https://github.com/kusheshgangwar/kushesh-resume](https://github.com/kusheshgangwar/Kushesh_resume/blob/main/Kushesh_Resume%20Updated%20.PDF)"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=download&logoColor=white" alt="Download resume" /></a>
+  <a href="https://github.com/kusheshgangwar/Kushesh_resume/blob/main/Kushesh_Resume%20Updated%20.PDF"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=download&logoColor=white" alt="Download resume" /></a>
 </p>
 
 </div>
