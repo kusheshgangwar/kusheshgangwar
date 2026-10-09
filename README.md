@@ -81,9 +81,8 @@ I am a data-focused developer who enjoys discovering patterns, simplifying compl
 
 ### [Meta Ads Campaign Performance Analysis](https://github.com/kusheshgangwar/Meta-Ads-Campaign-Analysis)
 
-- Analyzed **multi-million Meta advertising campaigns** across different demographics and placements.
-- Evaluated campaign effectiveness using ROI, ROAS, CPC, and conversion metrics.
-- Built interactive Power BI dashboards to track ad performance, audience engagement, and budget optimization.
+- Interrogated 50,000+ ad-interaction records via advanced SQL queries, isolating audience cohorts and creative formats responsible for 20-30% above-average engagement rates. 
+- Developed a multi-page Power BI dashboard covering reach, click-through behaviour, and platform-time heatmaps; findings drove a 25% improvement in campaign optimisation efficiency.
 - Identified high-performing segments and provided data-driven recommendations for campaign optimization.
 
 **Focus:** Marketing analytics · Campaign performance · Budget optimization · Customer acquisition analysis
